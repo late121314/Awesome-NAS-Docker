@@ -9,17 +9,12 @@
     <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
   </a>
 </div>
-垃圾佬俱乐部，全网收集好玩的docker项目，覆盖 AI、开发、数据管理、家庭娱乐等场景，生命不息！折腾不止！
 
-知乎：[二冰](https://www.zhihu.com/people/congjiwang)
 
-公众号：丛集黑科技
+公众号：吾爱评测
 
-![](https://img.twoice.fun:666/i/2025/03/28/11gongzhonghao-2-2.png)
 
-NAS圈大佬：可爱的小Cherry（二冰的nas引路人，大家多多关注）
 
-![](https://pic.fengsutb.com/pic/2025-04-18_10-01-05.png)
 
 ## 项目分类
 
